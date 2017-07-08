@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小众美食</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://imabc.us/"/>
+  <updated>2017-07-07T23:44:05.292Z</updated>
+  <id>http://imabc.us/</id>
+  
+  <author>
+    <name>小众美食</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>风味烤牛腰</title>
+    <link href="http://imabc.us/2017/01/04/Roasted-cow-kidney/"/>
+    <id>http://imabc.us/2017/01/04/Roasted-cow-kidney/</id>
+    <published>2017-01-05T00:26:16.000Z</published>
+    <updated>2017-07-07T23:44:05.292Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;原料&lt;/strong&gt;&lt;br&gt;牛腰子，精盐，味精粉，芝麻，辣椒粉，孜然粉，胡椒粉，咖喱粉。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;制作方法&lt;/strong&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>烤羊腰串</title>
+    <link href="http://imabc.us/2017/01/03/Roasted-lamb-kidney/"/>
+    <id>http://imabc.us/2017/01/03/Roasted-lamb-kidney/</id>
+    <published>2017-01-03T22:51:25.000Z</published>
+    <updated>2017-07-07T22:01:56.232Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;原料&lt;br&gt;带油羊腰，葱，姜，料酒，精盐，味素，咖喱粉，孜然，芝麻，辣椒粉，野山苏子粉，嫩肉粉，十三香。&lt;/p&gt;
+&lt;p&gt;制作方法&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>烤羊排</title>
+    <link href="http://imabc.us/2017/01/02/rack-of-lamp/"/>
+    <id>http://imabc.us/2017/01/02/rack-of-lamp/</id>
+    <published>2017-01-03T05:51:31.000Z</published>
+    <updated>2017-07-07T15:34:29.335Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;原料&lt;/strong&gt;&lt;br&gt;羊排，精盐，味素，白糖，孜然，芝麻，辣椒粉，香草粉，芥末粉，咖喱粉，野山苏子粉，料酒，葱，姜。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;制作方法&lt;/strong&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>新疆烤羊肉串</title>
+    <link href="http://imabc.us/2017/01/01/Xinjiang-kebabs/"/>
+    <id>http://imabc.us/2017/01/01/Xinjiang-kebabs/</id>
+    <published>2017-01-01T15:00:06.000Z</published>
+    <updated>2017-07-07T15:34:26.119Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;原料&lt;br&gt;羊肉，洋葱，精盐，孜然粉，辣椒粉，味素，松肉粉。&lt;/p&gt;
+&lt;p&gt;制作方法&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
